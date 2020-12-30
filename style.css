@@ -4,7 +4,7 @@ body {
     font-family:"Noto Sans JP";
 }
 :root{
-    --primary-color: #F9BB1E;
+    --primary-color:#d14545;
     ;
     --dark-gray: #6B7280;
 }
@@ -115,7 +115,7 @@ body {
 }
 
 .section .section-offwhite {
-  background-color: bisque ;
+  background-color: rgb(240, 203, 202) ;
   padding: 2rem;
   text-align: center;
 }
